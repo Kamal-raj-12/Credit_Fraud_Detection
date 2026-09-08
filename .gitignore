@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.csv
+*.zip
+
+# Google Colab / temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
